@@ -9,7 +9,7 @@
 </p>
 
 ---
-<p><ruby>15<rp>(</rp><rt>じゅうご</rt><rp>)</rp></ruby><ruby>歳<rp>(</rp><rt>さい</rt><rp>)</rp></ruby>、<ruby>学生<rp>(</rp><rt>がくせい</rt><rp>)</rp></ruby>です。</p>
+<p><ruby>16<rt>じゅうろく</rt></ruby><ruby>歳<rt>さい</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>です。</p>
 A OI student in Hebei Province, China.  
 Write C++ codes.(Sometimes Java)
 
