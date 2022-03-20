@@ -23,7 +23,7 @@ Speak Chinese(Mandarin) and English.
 My Respositories: 
 
 My blog:
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kaiserwilheim/kaiserwilheim.github.io?color=red&style=for-the-badge)  
+![GitHub repo size](https://img.shields.io/github/repo-size/kaiserwilheim/kaiserwilheim.github.io?style=for-the-badge) 
 
 My OI-codes :
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kaiserwilheim/OIcodes?color=red&style=for-the-badge)
