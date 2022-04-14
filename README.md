@@ -15,9 +15,9 @@ Write C++ codes.(Sometimes Java)
 
 Speak Chinese(Mandarin) and English.
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=KaiserWilheim&hide_border=true&theme=default&card_width=800)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=KaiserWilheim&hide_border=true&theme=default&exclude_repo=kaiserwilheim.github.io&card_width=800)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=KaiserWilheim&hide_border=true&theme=default&card_width=800)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=KaiserWilheim&hide_border=true&theme=default&lang_count=5)
 
 
 My Respositories: 
