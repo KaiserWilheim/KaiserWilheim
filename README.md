@@ -1,7 +1,7 @@
 <h3 align="center">👋Hello! I am KaiserWilheim.</h3>
 
 <p align="center">
-<a href="kaiserwilheim.github.io">Blog</a>
+<a href="https://kaiserwilheim.github.io">Blog</a>
 ·
 <a href="https://t.me/KaiserWilheim">Telegram</a>
 ·
@@ -9,16 +9,15 @@
 </p>
 
 ---
-<p><ruby>16<rt>じゅうろく</rt></ruby><ruby>歳<rt>さい</rt></ruby>、<ruby>学生<rt>がくせい</rt></ruby>です。</p>
+
+16歳、学生です。
+
 A OI student in Hebei Province, China.  
 Write C++ codes.(Sometimes Java)
 
 Speak Chinese(Mandarin) and English.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KaiserWilheim&hide_border=true&theme=default&exclude_repo=kaiserwilheim.github.io&card_width=800)
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=KaiserWilheim&hide_border=true&theme=default&lang_count=5)
-
 
 My Respositories: 
 
