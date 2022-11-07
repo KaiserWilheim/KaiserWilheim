@@ -12,10 +12,13 @@
 
 16歳、学生です。
 
-A OI student in Hebei Province, China.  
-Write C++ codes.(Sometimes Java)
+I am an OI student in Hebei Province, China.<br>
+你好！我是一个来自河北省的学生，现在正在学习信息学奥林匹克竞赛相关内容。<br>
+Write codes ind C++, sometimes in Java and C#.<br>
+我的代码以C++为主，同时因为自己也在搞一些其他的东西所以也会有一些Java和C#的代码掺和进去。
 
-Speak Chinese(Mandarin) and English.
+Speak Chinese(Mandarin) and English.<be>
+我会说中文和英语，别的语言的话有正在学的。
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KaiserWilheim&hide_border=true&theme=default&exclude_repo=kaiserwilheim.github.io,mayn-main-blog&card_width=800)
 
