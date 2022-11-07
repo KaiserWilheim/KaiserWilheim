@@ -12,9 +12,9 @@
 
 16歳、学生です。
 
-I am an OI student in Hebei Province, China.<br>
+Hello! I am an OI student in Hebei Province, China.<br>
 你好！我是一个来自河北省的学生，现在正在学习信息学奥林匹克竞赛相关内容。<br>
-Write codes ind C++, sometimes in Java and C#.<br>
+I write codes in C++, sometimes in Java and C#.<br>
 我的代码以C++为主，同时因为自己也在搞一些其他的东西所以也会有一些Java和C#的代码掺和进去。
 
 Speak Chinese(Mandarin) and English.<be>
