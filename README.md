@@ -10,7 +10,7 @@
 
 ---
 
-16歳、学生です。
+17歳、学生です。
 
 Hello! I am an OI student in Hebei Province, China.<br>
 你好！我是一个来自河北省的学生，现在正在学习信息学奥林匹克竞赛相关内容。<br>
