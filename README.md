@@ -10,10 +10,10 @@
 
 ---
 
-17歳、学生です。
+18歳、学生です。
 
-Hello! I am an OI student in Hebei Province, China.<br>
-你好！我是一个来自河北省的学生，现在正在学习信息学奥林匹克竞赛相关内容。<br>
+Hello! I am an student from Hebei Province, China. I had studied OI for two years in high school, but now I'm focusing on more fields.<br>
+你好！我是一个来自河北省的学生，曾经学习过信息学奥林匹克竞赛相关内容，现在正在向更多领域探索。<br>
 I write codes in C++, sometimes in Java and C#.<br>
 我的代码以C++为主，同时因为自己也在搞一些其他的东西所以也会有一些Java和C#的代码掺和进去。
 
