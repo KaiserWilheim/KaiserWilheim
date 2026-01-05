@@ -12,15 +12,23 @@
 
 ---
 
-18歳、学生です。
+20歳、学生です。
 
-Hello! I am an student from Hebei Province, China. I had studied OI for two years in high school, but now I'm focusing on more fields.<br>
-你好！我是一个来自河北省的学生，曾经学习过信息学奥林匹克竞赛相关内容，现在正在向更多领域探索。<br>
-I write codes in C++, sometimes in Java and C#.<br>
-我的代码以C++为主，同时因为自己也在搞一些其他的东西所以也会有一些Java和C#的代码掺和进去。
+Hello! I am a student from Hebei, China. I'm currently studying Industrial Design in a joint program between Xi'an Jiaotong University and Politecnico di Milano.
+<br>
+你好！我是一位来自中国河北省的学生，现在正就读于西安交通大学与米兰理工大学合办的工业设计专业。
 
-Speak Chinese(Mandarin) and English.<br>
-我会说中文和英语，别的语言的话有正在学的。
+I studied for the Olympics in Informatics during middle school, but unfortunately, I didn't continue after entering university. My <a href="https://kaiserwilheim.github.io">OI blog</a> and the <a href="https://github.com/KaiserWilheim/OIcodes">repo</a> containing the code I wrote during that time are remnants of that period.
+<br>
+我在中学时期曾经围绕算法竞赛相关内容进行了一定的学习，但很可惜，上了大学之后我并没有继续将其进行下去。我的<a href="https://kaiserwilheim.github.io">OI博客</a>和存放了我在那段时间写的代码的<a href="https://github.com/KaiserWilheim/OIcodes">仓库</a>是那段时间的残留。
+
+Can speak Mandarin Chinese (zh-CN) and English (en).
+<br>
+我会说普通话(zh-CN)和英语(en)。
+
+Hope to learn more here.
+<br>
+希望能在这里学到更多。
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=KaiserWilheim&hide_border=true&theme=default&exclude_repo=kaiserwilheim.github.io,blog&card_width=800)
 
@@ -38,3 +46,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
